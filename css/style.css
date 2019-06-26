@@ -943,9 +943,10 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #footer .credits {
+  font-family: 'Libre Barcode 39 Text', cursive;
   padding-top: 10px;
   text-align: center;
-  font-size: 13px;
+  font-size: 50px;
   color: #ccc;
 }
 
